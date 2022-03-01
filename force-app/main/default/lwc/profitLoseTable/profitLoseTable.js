@@ -13,5 +13,6 @@ export default class ProfitLoseTable extends LightningElement {
     wiredData({error, data}) {
         this.data = data;
         console.log(this.data);
+        console.log(error);
     }
 }
