@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>ABCDF__c</fullName>
     <externalId>false</externalId>
-    <label>ABCDF</label>
+    <label>testfield</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>MultiselectPicklist</type>
